@@ -1,4 +1,3 @@
-//Hellp world
 package com.example.questormap
 
 import android.os.Bundle
